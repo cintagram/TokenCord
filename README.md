@@ -9,7 +9,7 @@ FROM SOURCE:
 3. enjoy!
 
 FROM EXE:
-1. run DISTOK.py
+1. run DISTOK.exe
 2. insert token
 3. enjoy!
 
