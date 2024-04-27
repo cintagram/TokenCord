@@ -1,4 +1,4 @@
-# DISTOK
+# TokenCord
 Discord User Control / dump info from discord account token.
 supports tokenlogin. (add your chrome version's chromedriver.exe) 
 
